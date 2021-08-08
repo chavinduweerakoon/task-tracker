@@ -23,12 +23,6 @@
       "day": "wwww",
       "reminder": true,
       "id": 4
-    },
-    {
-      "text": "test",
-      "day": "test",
-      "reminder": true,
-      "id": 5
     }
   ]
 }
